@@ -1,2 +1,3 @@
 # Basic-Login-Page
-It is a static login page that uses HTML, CSS, JavaScript
+It is a static login page that uses HTML, CSS, JavaScript and JSON file 
+JSON file contain your login information such as Username, Password 
